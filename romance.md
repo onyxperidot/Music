@@ -1,7 +1,5 @@
 ---
----
-
-:::abc
+--
 X: 0
 T: Scottish Airs 01
 K: C
@@ -12,7 +10,6 @@ S: From Prairie Home Companion broadcast, 2002-4-1, Aly Bain & Phil Cunningham
 M: 3/4
 L: 1/8
 K: D
-:::
 :::abc
 A "A7"f>g \
 | "D"f3 A d>c | "G"cB3 gf | "Em"e3 d ef | "A7"A3 A fg \
